@@ -5,7 +5,7 @@ package ThinkingJava.chapter7;
  * @Package Name : ThinkingJava.chapter7
  * @Author : soupcat
  * @Creation Date : 2018年08月18日 下午1:33
- * @Describe : 描述 java编程思想 第七章
+ * @Describe : java编程思想 第七章 7.1组合语法 demo1
  */
 
 class WaterSource {

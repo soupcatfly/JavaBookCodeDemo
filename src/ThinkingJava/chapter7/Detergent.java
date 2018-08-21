@@ -5,7 +5,7 @@ package ThinkingJava.chapter7;
  * @Package Name : ThinkingJava.chapter7
  * @Author : soupcat
  * @Creation Date : 2018年08月20日 下午8:41
- * @Describe : 描述
+ * @Describe : 7.1 继承语法 demo1
  */
 class Cleaner {
     private String s = "Cleaner";
@@ -63,6 +63,9 @@ public class Detergent extends Cleaner {
     }
 }
 
+/**
+ * 练习2
+ */
 class Detergent2 extends Detergent {
     @Override
     public void scrub() {
